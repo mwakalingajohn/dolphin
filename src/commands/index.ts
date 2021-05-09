@@ -1,0 +1,1 @@
+export { CreateClassCommand  as CreatePhpClassCommand} from "./php/create-class/CreateClassCommand"
